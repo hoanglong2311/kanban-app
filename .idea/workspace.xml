@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e64bc83c-16f3-4a1e-a02b-0fc82a781aed" name="Changes" comment="update router">
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/axiosClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/common/Loading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/common/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/AppLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/AuthLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Board.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Signup.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/v1/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/v1/routes/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +55,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2aOG4vvMpdzTxJaZ9k9ddTklQKE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,7 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +87,13 @@
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="npm.server">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components/common" />
+      <recent name="$PROJECT_DIR$/client/src/components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Client">
     <configuration name="Client" type="js.build_tools.npm" temporary="true">
       <package-json value="$PROJECT_DIR$/client/package.json" />
       <command value="run" />
@@ -104,8 +120,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.server" />
         <item itemvalue="npm.Client" />
+        <item itemvalue="npm.server" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +136,7 @@
       <workItem from="1704182024882" duration="3541000" />
       <workItem from="1704187680007" duration="1009000" />
       <workItem from="1704203504013" duration="1685000" />
-      <workItem from="1704206083597" duration="6565000" />
+      <workItem from="1704206083597" duration="11836000" />
     </task>
     <task id="LOCAL-00001" summary="Update Auth, login api">
       <option name="closed" value="true" />
@@ -154,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704328848351</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update router">
+      <option name="closed" value="true" />
+      <created>1704385385443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704385385443</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
