@@ -44,3 +44,7 @@ router.post('/login',
     validation.validate,
     userController.login
 )
+
+router.post('verify-token', tokenHandler.verifyToken, (req, res) => {
+    res.status(200).json({ user: req.user })
+})
