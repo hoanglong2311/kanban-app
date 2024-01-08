@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {Outlet, useNavigate, user} from "react-router-dom";
 
 const AuthLayout = () => {
@@ -6,6 +6,11 @@ const AuthLayout = () => {
 
     const [loading, setLoading] = useState(true);
 
+    useEffect(() => {
+        const checkAuth = async () => {
+
+        }
+    }, []);
 
 
     return (
