@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e64bc83c-16f3-4a1e-a02b-0fc82a781aed" name="Changes" comment="Update AuthLayout, authAPI">
-      <change afterPath="$PROJECT_DIR$/client/src/utils/authUtils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/api/authApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/authApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/api/axiosClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/axiosClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/layout/AppLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/AppLayout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/layout/AuthLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/AuthLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/utils/authUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/utils/authUtils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +87,7 @@
       <recent name="$PROJECT_DIR$/client/src/components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Client">
+  <component name="RunManager" selected="npm.server">
     <configuration name="Client" type="js.build_tools.npm" temporary="true">
       <package-json value="$PROJECT_DIR$/client/package.json" />
       <command value="run" />
@@ -111,8 +114,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Client" />
         <item itemvalue="npm.server" />
+        <item itemvalue="npm.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +130,7 @@
       <workItem from="1704182024882" duration="3541000" />
       <workItem from="1704187680007" duration="1009000" />
       <workItem from="1704203504013" duration="1685000" />
-      <workItem from="1704206083597" duration="18602000" />
+      <workItem from="1704206083597" duration="22791000" />
     </task>
     <task id="LOCAL-00001" summary="Update Auth, login api">
       <option name="closed" value="true" />
@@ -193,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704639277682</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update AuthLayout, authAPI">
+      <option name="closed" value="true" />
+      <created>1704674633570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704674633570</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

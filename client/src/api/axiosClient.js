@@ -31,3 +31,4 @@ axiosClient.interceptors.response.use((response) => {
     return error.response;
 });
 
+export default axiosClient;
