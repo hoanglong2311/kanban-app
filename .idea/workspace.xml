@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e64bc83c-16f3-4a1e-a02b-0fc82a781aed" name="Changes" comment="Update AuthLayout, authAPI">
+    <list default="true" id="e64bc83c-16f3-4a1e-a02b-0fc82a781aed" name="Changes" comment="Login pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/api/authApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/authApi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/api/axiosClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/axiosClient.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/AppLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/AppLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/AuthLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/AuthLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/utils/authUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/utils/authUtils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +125,7 @@
       <workItem from="1704182024882" duration="3541000" />
       <workItem from="1704187680007" duration="1009000" />
       <workItem from="1704203504013" duration="1685000" />
-      <workItem from="1704206083597" duration="22791000" />
+      <workItem from="1704206083597" duration="24498000" />
     </task>
     <task id="LOCAL-00001" summary="Update Auth, login api">
       <option name="closed" value="true" />
@@ -204,7 +199,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704674633570</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update config axios, add to AppLayout">
+      <option name="closed" value="true" />
+      <created>1704758248607</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704758248607</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Login pages">
+      <option name="closed" value="true" />
+      <created>1704759281519</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704759281519</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Login pages">
+      <option name="closed" value="true" />
+      <created>1704759291648</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704759291648</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +262,8 @@
     <MESSAGE value="Front end setup and config axios" />
     <MESSAGE value="Config axios for project" />
     <MESSAGE value="Update AuthLayout, authAPI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update AuthLayout, authAPI" />
+    <MESSAGE value="Update config axios, add to AppLayout" />
+    <MESSAGE value="Login pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login pages" />
   </component>
 </project>
