@@ -32,7 +32,9 @@ const AppLayout = () => {
                    flexGrow: 1,
                    p: 1,
                    width: 'max-content'
-               }}></Box>
+               }}>
+                   <Outlet/>
+               </Box>
             </Box>
         )
     );
